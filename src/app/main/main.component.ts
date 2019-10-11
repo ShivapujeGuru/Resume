@@ -54,7 +54,7 @@ export class MainComponent implements OnInit {
           navClass: ['owl-prev', 'owl-next'],
           // navText: ["<img src='assets/images/angle-left-solid.svg'>", "<img src='assets/images/angle-right-solid.svg'>"]
         },
-        1400: {
+        1200: {
           items: 4,
           margin: 35,
           nav: true,
