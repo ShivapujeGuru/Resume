@@ -1,0 +1,64 @@
+$primaryColor: rgb(43, 43, 82); 
+$secondaryColor: rgb(234, 240, 241);
+$brownColor: rgb(76, 75, 75);
+$complimentofprimary: rgb(69, 87, 132);
+
+
+$primaryfont: 16px !important;
+$secondaryfont: 12px !important;
+$size-22: 22px !important;
+$size-26: 26px !important;
+$size-32: 32px !important;
+$size-40: 40px !important;
+$size-52: 52px !important;
+$size-70: 70px !important;
+$lettersspace: 0.6 !important;
+
+.primaryfont {
+    font-size: $primaryfont;
+    font-weight: normal !important;
+    line-height: 24px !important;
+    letter-spacing: $lettersspace;
+}
+.secondaryfont{
+    font-size: $secondaryfont;
+    font-weight: normal !important;
+    line-height: 18px !important;
+    letter-spacing: $lettersspace;
+}
+.size-22 {
+    font-size: $size-22;
+    font-weight: normal !important;
+    line-height: 32px !important;
+    letter-spacing: $lettersspace;
+}
+.size-26{
+    font-size: $size-26;
+    font-weight: bold !important;
+    line-height: 36px !important;
+    letter-spacing: $lettersspace;
+}
+.size-32{
+    font-size: $size-32;
+    font-weight: bold !important;
+    line-height: 48px !important;
+    letter-spacing: $lettersspace;
+}
+.size-40 {
+    font-size: $size-40;
+    font-weight: bold !important;
+    line-height: 48px !important;
+    letter-spacing: $lettersspace;
+}
+.size-52 {
+    font-size: $size-52;
+    font-weight: bold !important;
+    line-height: 64px !important;
+    letter-spacing: $lettersspace;
+}
+.size-70 {
+    font-size: $size-70;
+    font-weight: bold !important;
+    line-height: 78px !important;
+    letter-spacing: $lettersspace;
+}
